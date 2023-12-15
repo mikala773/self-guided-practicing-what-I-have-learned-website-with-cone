@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome! This is a project that I created while working on the curriculum for the Full-Stack Engineering Path on Codecademy.
+Welcome! This is a project that I created while working on the curriculum for the Full-Stack Engineering Path on Codecademy. 
 
 This is one of my first projects I created to practice using Visual Studio Code and the concepts I have learn so far in the program I am enrolled in. As I learn more I will continue to edit this project.
 
