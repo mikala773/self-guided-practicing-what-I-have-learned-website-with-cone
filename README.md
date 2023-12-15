@@ -15,7 +15,8 @@ This is one of my first projects I created to practice using Visual Studio Code 
 - **Skeuomorphic Buttons**: I designed skeuomorphic style buttons to see how they would look.
 
 ## Status
-- Complete for now.
+- Incomplete
+- Need to add the music to the contact page
 - Will make responsive using relative units (rem, em, %, etc).
 - Will add the usage of flexbox / grid
 
